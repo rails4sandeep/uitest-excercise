@@ -1,0 +1,8 @@
+{
+  "browser": "firefox",
+  "headless": false,
+  "default_timeout": 30,
+  "screen_width": 2880,
+  "screen_height": 1800,
+  "screenshots": false
+}
