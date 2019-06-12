@@ -1,3 +1,6 @@
+## Introduction
+The tests are written in Ruby. They use Watir as the webdriver. RSpec as the test runner.
+
 ## Installation
 
 `bundle install`
